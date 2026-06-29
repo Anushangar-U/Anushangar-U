@@ -68,10 +68,4 @@ Data Science undergraduate at **SLIIT, Colombo** with 6 end-to-end analytics pro
 
 📜 Python Certification — University of Moratuwa &nbsp;|&nbsp; MongoDB Python Developer Path — MongoDB
 
----
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushangar-U&show_icons=true&hide_border=true&title_color=1e3a8a&icon_color=2563eb&text_color=374151&bg_color=ffffff&count_private=true)
-
-</div>
